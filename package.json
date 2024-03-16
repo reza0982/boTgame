@@ -1,8 +1,8 @@
 {
-  "name": "BOT",
+  "name": "boTgame",
   "main": "server.js",
   "author": "tantrik16",
-  "version": "0.0.1",
+  "version": "1.0.1",
   },
   "repository": {
     "type": "git",
